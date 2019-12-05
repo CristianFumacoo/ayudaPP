@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1575514470 source:c:\users\chris\desktop\nice\equipos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Equipos.h"
+
+1575514786 c:\users\chris\desktop\nice\equipos.h
+	"Jugadores.h"
+
+1575508711 source:c:\users\chris\desktop\nice\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Jugadores.h"
+
+1575514782 c:\users\chris\desktop\nice\jugadores.h
+
+1575514777 source:c:\users\chris\desktop\nice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Equipos.h"
+	"Referi.h"
+
+1575515141 c:\users\chris\desktop\nice\referi.h
+
+1575513450 source:c:\users\chris\desktop\nice\referi.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Referi.h"
+
