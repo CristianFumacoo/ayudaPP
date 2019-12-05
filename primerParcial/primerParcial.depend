@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1575556214 source:c:\users\alumno\desktop\primerparcial\llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"llamada.h"
+
+1575555826 source:c:\users\alumno\desktop\primerparcial\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"persona.h"
+
+1575553417 c:\users\alumno\desktop\primerparcial\persona.h
+
+1575554505 source:c:\users\alumno\desktop\primerparcial\untitled3.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"llamada.h"
+
+1575554623 c:\users\alumno\desktop\primerparcial\llamada.h
+
